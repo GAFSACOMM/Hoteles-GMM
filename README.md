@@ -1,5 +1,8 @@
 # Hoteles Mundo Maya — Maquetado React + Tailwind
 
+Maquetado Base:
+https://hoteles-grupo-mundo-maya-dc2ca0.webflow.io/
+
 Este proyecto replica el layout del maquetado de Webflow y deja un **placeholder** para integrar después el **Booking Engine API** (Cloudbeds u otro PMS).
 
 ## 🚀 Stack
